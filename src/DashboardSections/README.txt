@@ -7,4 +7,4 @@
 -->> CI:		Jenkins info from environments
 -->> Config:	The config page to change stored config for the Sections
 -->> MSB:		MSBuild information from Core
--->> Redmine:	Redmine info from Redmine queries
+-->> Redmine:	Redmine info from Redmine querie
